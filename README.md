@@ -1,3 +1,4 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=darcula)
 ### Hi there, I'm Mehedi 👋
 
 ## I'm a Student, Developer, and a Self Learner!
