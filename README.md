@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihsajib&layout=compact)](https://github.com/mehedihsajib/github-readme-stats)
 
-![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedihsajib&theme=dark&show_icons=true)
+![Mehedi's github repo](https://github-readme-stats.vercel.app/api?username=mehedihsajib&theme=gruvbox&show_icons=true)
 
 
   
