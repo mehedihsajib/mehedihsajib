@@ -32,12 +32,10 @@
 
 <br />
 <br />
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  ![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedihsajib&show_icons=true&theme=darcula)
+![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedihsajib&show_icons=true&theme=darcula)
   
-</details>
+
 
 [facebook]: https://facebook.com/mehedihsajib00
 [twitter]: https://twitter.com/mehedi_h_sajib
