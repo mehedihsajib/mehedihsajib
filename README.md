@@ -32,11 +32,10 @@
 
 <br />
 <br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihsajib&layout=compact)](https://github.com/mehedihsajib/github-readme-stats)
 
-
-![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedihsajib&show_icons=true&theme=darcula)
   
 
 
