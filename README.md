@@ -1,4 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=darcula)
 ### Hi there, I'm Mehedi 👋
 
 ## I'm a Student, Developer, and a Self Learner!
@@ -36,8 +35,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mehedihsajib&show_icons=true&hide_border=true" />
-
+  ![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedihsajib&show_icons=true&theme=darcula)
+  
 </details>
 
 [facebook]: https://facebook.com/mehedihsajib00
