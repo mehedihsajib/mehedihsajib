@@ -3,9 +3,9 @@
 ## I'm a Student, Developer, and a Self Learner!
 
 - 🔭 I’m currently studying Diploma in Computer Science!
-- 🌱 I’m currently solving problem with javascript in different online judge.
-- 🥅 2020 Goals: Solving javascript problem and then learn ReactJS.
-- ⚡ Fun fact: I love to singing and play guitar.
+- 🌱 I’m currently solving problems in different online judge.
+- 🥅 2020 Goals: Solving more and more programming problems.
+- ⚡ Fun fact: I love to singing and playing guitar.
 
 ### Connect with me:
 
