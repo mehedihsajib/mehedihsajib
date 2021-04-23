@@ -1,6 +1,6 @@
 ### Hi there, I'm Mehedi 👋
 
-## I'm a Student, Developer, and a Self Learner!
+## Student || Problem Solver || Frontend Web Developer
 
 - 🔭 I’m currently studying Diploma in Computer Science!
 - 🌱 I’m currently solving problems in different online judge.
