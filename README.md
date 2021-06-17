@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying Diploma in Computer Science!
 - 🌱 I’m currently solving problems in different online judge.
-- 🥅 2020 Goals: Solving more and more programming problems.
+- 🥅 2021 Goals: Solving more and more programming problems and learn ReactJS.
 - ⚡ Fun fact: I love to singing and playing guitar.
 
 ### Connect with me:
