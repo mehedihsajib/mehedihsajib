@@ -2,10 +2,9 @@
 
 ## Student || Problem Solver || Frontend Web Developer
 
-- 🔭 I’m currently studying Diploma in Computer Science!
-- 🌱 I’m currently solving problems in different online judge.
-- 🥅 2021 Goals: Solving more and more programming problems and learn ReactJS.
-- ⚡ Fun fact: I love to singing and playing guitar.
+- I’m currently studying Diploma in Computer Science (Last Semester).
+- I’m currently solving problems in different online judge.
+- 2021 Goals: Solving more and more programming problems and get a frontend web development internship.
 
 ### Connect with me:
 
