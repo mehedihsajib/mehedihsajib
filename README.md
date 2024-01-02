@@ -1,10 +1,8 @@
-### Hi there, I'm Mehedi 👋
-
 ## Frontend Developer || Problem Solver 
 
 - Currently I'm working as a Front-End Developer @Luminous Labs
 - Solving problems in Codechef.
-- 2023 Goals: Contributing in ReactJS ecosystem. 
+- 2024 Goals: Contributing on the Web. 
 
 ### Connect with me:
 [<img align="left" alt="mehedi_h_sajib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
